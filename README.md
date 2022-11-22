@@ -2,13 +2,11 @@
 👨‍🎓 I am Surendran, pre final year Engineering Student at Amrita University, Coimbatore. <br />
 💻 I am a **Full-Stack Web Developer** as well as **AI** and **BlockChain** enthusiast.<br />
 
-
+![](https://komarev.com/ghpvc/?username=coderSuren&style=for-the-badge)
 
 ## GitHub Stats <br />
 <img src="https://github-readme-stats.vercel.app/api?username=coderSuren&&include_all_commits=true&show_icons=true&theme=blueberry" />
 
- 
- ---
 
 ## Connect with me  
 <div align="center">
@@ -32,7 +30,7 @@
  <img src=https://img.shields.io/badge/Codeforces-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white />
 </a>
 
-<a href="https://leetcode.com/ptechofficial/" target="_blank">
+<a href="https://leetcode.com/coderSuren/" target="_blank">
  <img src=https://img.shields.io/badge/LeetCode-%2308090A.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a> 
 
@@ -43,8 +41,5 @@
 <div>
  <img src = "https://holopin.io/api/user/board?user=surendran" />
 </div>
-
-
-
 
 
