@@ -25,11 +25,11 @@
 <a href="https://www.codechef.com/users/codersuren" target="_blank">
  <img src=https://img.shields.io/badge/-CodeChef-100000?style=for-the-badge&logo=CodeChef&logoColor=white />
 </a>
-
+<!--
  <a href="https://codeforces.com/profile/coderSuren" target="_blank">
  <img src=https://img.shields.io/badge/Codeforces-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white />
 </a>
-
+-->
 <a href="https://leetcode.com/coderSuren/" target="_blank">
  <img src=https://img.shields.io/badge/LeetCode-%2308090A.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a> 
