@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=coderSuren&style=for-the-badge)
 
 ## GitHub Stats <br />
-<img src="https://github-readme-stats.vercel.app/api?username=coderSuren&&include_all_commits=true&show_icons=true&theme=blueberry" />
+<img src="https://github-readme-stats.vercel.app/api?username=coderSuren&&include_all_commits=true&show_icons=true&theme=blueberry&rank_icon=github" />
 
 
 ## Connect with me  
