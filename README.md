@@ -1,44 +1,32 @@
 # [Surendran Gokul](https://github.com/coderSuren)
-👨‍🎓 I am Surendran, pre final year Engineering Student at Amrita University, Coimbatore. <br />
-💻 I am a **Full-Stack Web Developer** as well as **AI** and **BlockChain** enthusiast.<br />
-
+- 👨🏼‍💻 I am Surendran, final year Engineering Student at Amrita University, Coimbatore <br />
+- 💻 I am a **Full-Stack Web Developer**, **Cloud computing practitioner**  and **BlockChain** enthusiast<br />
+- 🌱 I’m currently learning **Android App development** using **Kotlin**
+- 📫 Reach me @ **[gmail.com](mailto:surendrangokul55@gmail.com)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://codersuren.github.io)**
+  
 ![](https://komarev.com/ghpvc/?username=coderSuren&style=for-the-badge)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/surendrangokul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surendrangokul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/surendrangn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surendrangn" height="30" width="40" /></a>
+<a href="https://discord.com/users/1004019519007764572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="surendean#6910" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/coderSuren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.suren_037" height="30" width="40" /></a>
+</p>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 
 ## GitHub Stats <br />
 <img src="https://github-readme-stats.vercel.app/api?username=coderSuren&&include_all_commits=true&show_icons=true&theme=blueberry&rank_icon=github" />
 
-
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/surendrangn" target="_blank">
- <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
-</a>
-
-<a href="https://twitter.com/Surendrangn" target="_blank">
- <img src=https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=twitter&logoColor=white />
-</a>
- 
-<a href="https://discordapp.com/users/Surendran#6910" target="_blank">
- <img src=https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white />
-</a> 
-
-<a href="https://www.codechef.com/users/codersuren" target="_blank">
- <img src=https://img.shields.io/badge/-CodeChef-100000?style=for-the-badge&logo=CodeChef&logoColor=white />
-</a>
-<!--
- <a href="https://codeforces.com/profile/coderSuren" target="_blank">
- <img src=https://img.shields.io/badge/Codeforces-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white />
-</a>
-
-<a href="https://leetcode.com/coderSuren/" target="_blank">
- <img src=https://img.shields.io/badge/LeetCode-%2308090A.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> 
--->
-
-
-</div>
-
-## Holopin Badge
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codersuren&theme=blueberry)](https://git.io/streak-stats)<span>&#8199;&#8199;&#8199;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codersuren&show_icons=true&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+## Holopin Badges
 <div>
  <img src = "https://holopin.io/api/user/board?user=surendran" />
 </div>
